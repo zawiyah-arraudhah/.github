@@ -10,7 +10,6 @@ MyWasila adalah aplikasi yang dirancang sebagai sarana dakwah dan pembelajaran u
 - meknes: Auth, User Management, Notification
 - fez: Jurnal, Pustaka
 - tangier: Artikel, Event
-> Seluruh microservice MyWasila menggunakan sistem autentikasi JWT terpadu, penyimpanan data di MongoDB, dan API Gateway bersama untuk keamanan serta monitoring
 
 #### Wiki Proyek:
 - Notion
